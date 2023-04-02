@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@gustavobgt/godoc-ui": "0.1.2",
     "@types/node": "18.15.11",
     "@types/react": "18.0.32",
     "@types/react-dom": "18.0.11",
     "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "styled-components": "^5.3.9",
     "typescript": "5.0.3"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.26"
   }
 }
